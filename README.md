@@ -2,7 +2,7 @@
 Based on "https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d"
 
 
-Jupyterlab Docker image
+# Jupyterlab Docker image
 
 Debian jupyterlab docker image. Includes a data science stack.
 
